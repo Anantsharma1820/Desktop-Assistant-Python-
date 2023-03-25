@@ -1,0 +1,10 @@
+pip install subprocess
+pip install pyttsx3 
+pip install speech_recognition
+pip install datetime
+pip install wikipedia 
+pip install webbrowser
+pip install os
+pip install pyjokes
+pip install winshell
+pip install shutil
